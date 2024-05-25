@@ -7,5 +7,6 @@ This is the final project of the Master in Cloud Computing 2304VCCO in IMMUNE, t
 
 *The following diagram represents high level overview of the infrastructure:*
 
+![capstone](https://github.com/andres-pulecio/master-capstone/assets/53886913/c82792a1-ab1f-49f6-91b8-f7709609ce7f)
 
 This template create:
