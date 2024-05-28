@@ -26,4 +26,9 @@ measures the problems and has the following characteristics:
 - Makes efficient use of assigned resources
 - It have mechanisms that improve security aspects, ensuring that only users and Authorized applications can use web services
 
-This template create:
+## How to execute?
+
+1. All .yml files must be hosted in an S3 bucket
+2. In cloud formation, load the main.yml and adjust to the necessary data, it is necessary that the name of the bucket created in step one be referenced in the data.
+
+## This template create:
