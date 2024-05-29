@@ -1,5 +1,5 @@
 # Capstone - Master in Cloud Computing 2304VCCO - IMMUNE
-This is the final project of the Master in Cloud Computing 2304VCCO in IMMUNE, this repository contains what is needed to deploy Wordpress in AWS.
+This is the final project of the Master in Cloud Computing 2304VCCO in IMMUNE, this repository contains what is needed to deploy in AWS.
 
 *Top level and first level hierarchy of nested stacks.*
 
