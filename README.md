@@ -31,4 +31,9 @@ measures the problems and has the following characteristics:
 1. All .yml files must be hosted in an S3 bucket
 2. In cloud formation, load the main.yml and adjust to the necessary data, it is necessary that the name of the bucket created in step one be referenced in the data.
 
-## This template create:
+## This template create the following stacks:
+
+- main
+- Iam
+- VPC
+- RDS
